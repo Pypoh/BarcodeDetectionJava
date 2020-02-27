@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "89361527503",
+    "firebase_url": "https://barcodedetectionjava.firebaseio.com",
+    "project_id": "barcodedetectionjava",
+    "storage_bucket": "barcodedetectionjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89361527503:android:bca2ad59257e148c733dba",
+        "android_client_info": {
+          "package_name": "com.hoineki.mlkittext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89361527503-na06k1hg9na8g4400i2i4p6cn4eduv0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoineki.mlkittext",
+            "certificate_hash": "a524ff01b86e16e23c9ac90ba81dc70485c11ea9"
+          }
+        },
+        {
+          "client_id": "89361527503-19dggc71jl2gcusk54mn2fri9me9of3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6LSIPbv_qf7RxrsjkTrw9U6ETWYt_lq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89361527503-19dggc71jl2gcusk54mn2fri9me9of3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
